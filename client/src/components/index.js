@@ -5,4 +5,4 @@ export { default as Home } from "./pages/home/Home";
 export { default as About } from "./pages/about/About";
 export { default as Profile } from "./pages/profile/Profile";
 export { default as Signin } from "./pages/signin/SignIn";
-export { default as Signout } from "./pages/signout/SignOut";
+export { default as SignUp } from "./pages/signup/SignUp";
